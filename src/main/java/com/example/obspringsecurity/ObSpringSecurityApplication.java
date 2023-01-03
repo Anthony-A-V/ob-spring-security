@@ -27,5 +27,4 @@ public class ObSpringSecurityApplication {
 
         System.out.println("N° de Laptops: " + laptopRepository.count());
     }
-
 }
